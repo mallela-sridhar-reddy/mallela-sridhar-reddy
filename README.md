@@ -1,7 +1,8 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Sridhar Reddy</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-<img src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" align="right" width="400">
+<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" align="center" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallela-sridhar-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="mallela-sridhar-reddy" /> </p>
 
