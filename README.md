@@ -1,6 +1,6 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Sridhar Reddy</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+<h3 align="center">A Data Analysis Professional from India</h3>
 
 <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" align="center" width="500">
 
