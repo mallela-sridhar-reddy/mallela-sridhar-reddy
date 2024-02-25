@@ -21,12 +21,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> SQL</p>
 <p align="left"> Power BI</p>
-<p align="left"> Python</p>
+<p align="left"> Python
+<ul>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+</ul>
+</p>
 <p align="left"> Excel</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallela-sridhar-reddy&show_icons=true&locale=en&layout=compact" alt="mallela-sridhar-reddy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mallela-sridhar-reddy&show_icons=true&locale=en" alt="mallela-sridhar-reddy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallela-sridhar-reddy&" alt="mallela-sridhar-reddy" /></p>
